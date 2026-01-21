@@ -12,6 +12,12 @@ export default function Home() {
           height={20}
           priority
         />
+        <div>
+          hello world
+        </div>
+        <div>
+          hello from the other side.
+        </div>
       </main>
     </div>
   );
