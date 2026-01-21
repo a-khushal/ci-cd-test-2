@@ -15,6 +15,9 @@ export default function Home() {
         <div>
           hello world
         </div>
+        <div>
+          hello from the other side.
+        </div>
       </main>
     </div>
   );
