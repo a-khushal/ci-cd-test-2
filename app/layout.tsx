@@ -22,6 +22,9 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  let a = 10;
+  let b = 20;
+  
   return (
     <html lang="en">
       <body
