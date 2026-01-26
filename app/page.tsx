@@ -17,6 +17,9 @@ export default function Home() {
           height={20}
           priority
         />
+        <div>
+          hello world
+        </div>
       </main>
     </div>
   );
